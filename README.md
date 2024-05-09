@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MidnightDevelopings
-- 👀 I’m interested in Android App Development ( Flutter)
+- 👀 I’m interested in Android App Development (Flutter)
 - 🌱 I’m currently learning Flutter
 - 
 
